@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,aAAa,AAAC,CACZ,UAAU,CAAE,OAAO,CACnB,KAAK,CAAE,IAAI,CACX,MAAM,CAAE,IAAI,CACZ,KAAK,CAAE,OAAO,CACd,OAAO,CAAE,IAAI,CACd,AAED,AAAA,OAAO,AAAC,CACN,UAAU,CAAE,GAAG,CAUhB,AAXD,AAEE,OAFK,CAEL,EAAE,AAAC,CACD,cAAc,CAAE,IAAI,CAOrB,AAVH,AAII,OAJG,CAEL,EAAE,CAEA,IAAI,AAAC,CACH,UAAU,CAAE,OAAO,CACnB,OAAO,CAAE,QAAQ,CACjB,aAAa,CAAE,GAAG,CAClB,KAAK,CAAE,KAAK,CACb",
+    "sources": [
+        "../scss/PlayerChoice.scss",
+        "../scss/partials/_material-color.scss"
+    ],
+    "names": [],
+    "file": "PlayerChoice.min.css"
+}
