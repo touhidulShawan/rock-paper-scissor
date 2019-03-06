@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import "../assets/css/UserControl.min.css";
+
 class UserControl extends Component {
   state = {
     playerChoice: null,
@@ -14,12 +15,26 @@ class UserControl extends Component {
     const computerChoice = Math.floor(Math.random() * 3 + 1);
 
     this.setState({ playerChoice, computerChoice });
+
+    const com = this.state.computerChoice;
+    const user = this.state.playerChoice;
+    let winner;
+    if (com === user) {
+      winner = "Tie";
+    } else if (com === 1 && user === 2) {
+      winner = "Congrates !! You win";
+    } else if (com === 2 && user === 3) {
+      winner = "Congrates !! You win";
+    } else if (com === 3 && user === 1) {
+      winner = "Congrates !! You win";
+    } else {
+      winner = "Sorry!! Computer win";
+    }
+
+    alert(winner);
   };
 
   render() {
-    console.log(`Computer choice: ${this.state.computerChoice}`);
-    console.log(`Player choice: ${this.state.playerChoice}`);
-
     return (
       <div className="UserControl">
         <div
@@ -27,6 +42,7 @@ class UserControl extends Component {
           onClick={this.makeMove}
           game-option-index="1"
         >
+          >
           <i className="fas fa-hand-rock" game-option-index="1" />
         </div>
         <div
