@@ -2,14 +2,15 @@
 
 .UserControl {
   background: $indigo;
-  width: 100%;
+  float: left;
+  width: 30%;
   height: 100%;
   padding: 20px;
   position: relative;
 
   .game-options {
-    width: 90px;
-    height: 90px;
+    width: 70px;
+    height: 70px;
     border: 3px solid;
     border-radius: 50px;
     border-color: $cyan;

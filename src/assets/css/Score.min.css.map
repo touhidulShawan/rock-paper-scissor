@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAAA,MAAM,AAAC,CACL,UAAU,CCEH,OAAO,CDDd,KAAK,CAAE,KAAK,CACZ,KAAK,CAAE,GAAG,CACV,MAAM,CAAE,IAAI,CACZ,MAAM,CAAE,MAAM,CAWf,AAhBD,AAOE,MAPI,CAOJ,OAAO,AAAC,CACN,UAAU,CAAE,IAAI,CAChB,KAAK,CAAE,KAAK,CACZ,WAAW,CAAE,IAAI,CACjB,OAAO,CAAE,IAAI,CACb,UAAU,CAAE,CAAC,CAAC,GAAG,CAAC,GAAG,CAAC,eAAkB,CACxC,KAAK,CAAE,KAAK,CACZ,UAAU,CAAE,MAAM,CACnB",
+    "sources": [
+        "../scss/Score.scss",
+        "../scss/partials/_material-color.scss"
+    ],
+    "names": [],
+    "file": "Score.min.css"
+}
