@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/rock-paper-scissor/static/js/runtime~main.ce157157.js"
   },
   {
-    "revision": "a6a65dfea93401d52a60",
-    "url": "/rock-paper-scissor/static/js/main.a6a65dfe.chunk.js"
+    "revision": "cfdaf3db49352d38770d",
+    "url": "/rock-paper-scissor/static/js/main.cfdaf3db.chunk.js"
   },
   {
     "revision": "7242ee6fe8b8797ae938",
     "url": "/rock-paper-scissor/static/js/2.7242ee6f.chunk.js"
   },
   {
-    "revision": "a6a65dfea93401d52a60",
-    "url": "/rock-paper-scissor/static/css/main.07a6b88a.chunk.css"
+    "revision": "cfdaf3db49352d38770d",
+    "url": "/rock-paper-scissor/static/css/main.e20eb71f.chunk.css"
   },
   {
     "revision": "7242ee6fe8b8797ae938",
     "url": "/rock-paper-scissor/static/css/2.85d0f250.chunk.css"
   },
   {
-    "revision": "49aa3e7050faa6d59df3e50f26c1c582",
+    "revision": "1aed4d7c0d896707bca7baa4dfe02d1a",
     "url": "/rock-paper-scissor/index.html"
   }
 ];
