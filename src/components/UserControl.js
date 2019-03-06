@@ -41,7 +41,6 @@ class UserControl extends Component {
       <React.Fragment>
         <div className="UserControl">
           <div className="d-flex game-options">
-            >
             <i
               className="fas fa-hand-rock"
               game-option-index="1"
